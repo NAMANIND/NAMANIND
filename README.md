@@ -16,17 +16,22 @@
 - **Impact:** Revolutionized internal communication, streamlined content management, ensured unified connectivity.
 
 ### The IENCA (India Edition)
-- **Live Links:** [india.theiena.com](https://india.theiena.com)
+- **Live Link:** [india.theiena.com](https://india.theiena.com)
 - **Tech-stack:** NextJS, Firebase, Cloudinary, Resend and Tailwind.
 - **Impact:** Integrated voting page, automated nomination updates, automated banner generation, enhanced user experience.
 
+### The IENCA (KSA Edition)
+- **Live link:** [theiecna.com](https://www.theiecna.com/)
+- **Tech-stack:** Apps Script, Html, CSS, and JavaScript.
+- **Impact:** Enhanced user interaction with seamlessly integrated voting and automated nomination update systems, streamlining the voting process.
+
 ### I am Ayush rai (Portfolio Website)
-- **Project Live:** [iamayushrai.com](https://iamayushrai.com/)
+- **Live Link:** [iamayushrai.com](https://iamayushrai.com/)
 - **Tech-stack:** Swiper.js, GSAP, Html, CSS and JavaScript.
 - **Impact:** Established professional online presence, showcased skills and achievements effectively.
 
 ### Bitnib Design (Company website)
-- **Project Live:** [bitnibdesign.com](https://bitnibdesign.com)
+- **Live Link:** [bitnibdesign.com](https://bitnibdesign.com)
 - **Tech-stack:** Prallax.js, Email.js, Html, CSS and JavaScript.
 - **Impact:** Optimized website, improved search ranking, enhanced accessibility.
 
