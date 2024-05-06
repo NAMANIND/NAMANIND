@@ -1,29 +1,50 @@
 
-<h1 align="center">Hi 👋, I'm Naman Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://miro.medium.com/max/1838/1*zlmwtg3fog11YXcU_rvfWA.gif"></img>
+![image](https://github.com/NAMANIND/NAMANIND/assets/88327184/67252500-3cfc-4565-95ce-1a45e1dbc01b)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanind" alt="namanind" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/naman_rai_" target="blank"><img src="https://img.shields.io/twitter/follow/naman_rai_?logo=twitter&style=for-the-badge" alt="naman_rai_" /></a> </p>
+- ♂ He/Him 📍 Living in Indore, India
+- I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
+- Interested in cross-platform applications, browser extention and dynamic website developement
+- General mails at hello@namanrai.tech  
 
-- 🔭 I’m currently working on **Bitnib**
+## Freelance Experience
 
-- 🌱 I’m currently learning **React Native**
+### ASSENT Connect Plus (Android + IOS Application)
+- **Live Links:** [IOS](https://apps.apple.com/app/assent-connect-plus/id6478013818) and [Android](https://play.google.com/store/apps/details?id=com.assent.connectplus&pcampaignid=web_share)
+- **Tech-stack:** React Native, Firebase, Expo.
+- **Impact:** Revolutionized internal communication, streamlined content management, ensured unified connectivity.
 
-- 💬 Ask me about **React ,Javascript ,Css**
+### The IENCA (India Edition)
+- **Live Links:** [india.theiena.com](https://india.theiena.com)
+- **Tech-stack:** NextJS, Firebase, Cloudinary, Resend and Tailwind.
+- **Impact:** Integrated voting page, automated nomination updates, automated banner generation, enhanced user experience.
 
-- 📫 How to reach me **namanrai309@gmail.com**
+### I am Ayush rai (Portfolio Website)
+- **Project Live:** [iamayushrai.com](https://iamayushrai.com/)
+- **Tech-stack:** Swiper.js, GSAP, Html, CSS and JavaScript.
+- **Impact:** Established professional online presence, showcased skills and achievements effectively.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naman_rai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naman_rai_" height="30" width="40" /></a>
-<a href="https://instagram.com/un_knownusser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="un_knownusser" height="30" width="40" /></a>
-</p>
+### Bitnib Design (Company website)
+- **Project Live:** [bitnibdesign.com](https://bitnibdesign.com)
+- **Tech-stack:** Prallax.js, Email.js, Html, CSS and JavaScript.
+- **Impact:** Optimized website, improved search ranking, enhanced accessibility.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanind&show_icons=true&locale=en&layout=compact" alt="namanind" /></p>
+## Products
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanind&show_icons=true&locale=en" alt="namanind" /></p>
+- **[Power Tab](https://chromewebstore.google.com/detail/power-tab-save-share-mana/mmonhlejcmgecfbihofklieljhphkkan) - Save, Share & Manage (Browser Extension):** Effortless Tab Organization, Streamlined Workflow  
+  Save and Access Tab Groups, Organize Your Browser, Amplify Your Productivity.
+- **[Automatic WIFI Login](https://chromewebstore.google.com/detail/automatic-wifi-login/nbkoadcgedjmhppjldoffhcmjlpcnfjd) (Browser Extension):** Developed browser extension Automating WIFI login, improving user convenience and efficiency.
+
+
+## Personal Projects
+
+- **Web3 Website (Redesign):** Modernized [Yotta21](https://yotta21.netlify.app/) website, integrating web3 technology for futuristic user experience.
+- **Blog Application (Application):** Full-stack blog app utilizing NextJS App Router, MongoDB, SSR, CSR components.
+- **Real Estate Website (Landing Page):** Created responsive real estate website using React.js, modern CSS, and animations.
+- **Chat Application (Application):** Developed chat application for a Hackathon, featuring unique browser overlay concept for enhanced user engagement.
+
+
+**Socials**
+
+[Twitter/Naman_rai_](https://twitter.com/Naman_rai_) &bullet; [LinkedIn/namannraii](https://www.linkedin.com/in/namannrai/) &bullet; [Instagram/un_knownusse](https://www.instagram.com/un_knownusser/) &bullet; [Website/namanrai.tech](https://www.namanrai.tech/)
