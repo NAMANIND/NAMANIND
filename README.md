@@ -5,6 +5,7 @@
 - ♂ He/Him 📍 Living in Indore, India
 - I work as a design-centric-frontend-heavy Full stack developer. Mostly using Nextjs, TailwindCSS, Typescript, React native, nodejs.
 - Interested in cross-platform applications, browser extention and dynamic website developement
+- Currently working on [socialpulze](https://socialpulze.vercel.app/)
 - General mails at hello@namanrai.tech  
 
 ## Freelance Experience
