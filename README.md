@@ -26,11 +26,6 @@
 - 🛠️ Tech-stack: Apps Script, HTML, CSS, JavaScript.
 - 💥 Impact: Enhanced user interaction with integrated voting and automated nomination update systems, streamlining the voting process.
 
-### I am Ayush Rai (Portfolio Website)
-- **Live Link:** [iamayushrai.com](https://iamayushrai.com/)
-- 🛠️ Tech-stack: Swiper.js, GSAP, HTML, CSS, JavaScript.
-- 💥 Impact: Established professional online presence, showcased skills and achievements effectively.
-
 ### Bitnib Design (Company website)
 - **Live Link:** [bitnibdesign.com](https://bitnibdesign.com)
 - 🛠️ Tech-stack: Parallax.js, Email.js, HTML, CSS, JavaScript.
